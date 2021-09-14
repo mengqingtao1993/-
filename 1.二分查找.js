@@ -1,3 +1,6 @@
+/**
+ * 在有序数组中查找值
+ */
 function bsearch (arr, target) {
   let l = 0,
     r = arr.length - 1,
